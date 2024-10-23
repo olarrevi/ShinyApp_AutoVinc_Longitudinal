@@ -26,15 +26,15 @@ Funcionalidades
 
 - Clonar el repositorio:
 
-  git clone https://github.com/usuario/ShinyApp_AutoVinc_Longitudinal.git
+  `git clone https://github.com/usuario/ShinyApp_AutoVinc_Longitudinal.git`
 
 - Restaurar el entorno de R con renv:
 
-    renv::restore()
+    `renv::restore()`
 
 Ejecutar la aplicación Shiny:
 
-    shiny::runApp("app.R")
+    `shiny::runApp("app.R")`
 
 ## Uso
 
