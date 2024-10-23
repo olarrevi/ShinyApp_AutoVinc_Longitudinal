@@ -32,7 +32,7 @@ Funcionalidades
 
 `renv::restore()`
 
-Ejecutar la aplicación Shiny:
+- Ejecutar la aplicación Shiny:
 
 `shiny::runApp("app.R")`
 
